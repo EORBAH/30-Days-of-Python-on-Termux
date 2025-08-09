@@ -45,7 +45,7 @@ Maîtrisez les fondamentaux de Python pour une base solide.
 
 | Jour | Cours |
 |------|---------------------------------------------------------|
-| 1    | [Introduction à Python et Termux](./01_Day_Introduction/01_introduction.md) |
+| 1    | [Introduction à Python et Termux](./README.md) |
 | 2    | [Syntaxe de base (variables, types de données, opérations)](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md) |
 | 3    | [Entrées/sorties (input/output, print)](./03_Day_Input_Output/03_input_output.md) |
 | 4    | [Structures conditionnelles (if, else, elif)](./04_Day_Conditionals/04_conditionals.md) |
